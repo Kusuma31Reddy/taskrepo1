@@ -1,1 +1,4 @@
-hello
+<<<<<<< ello
+=======
+kdfjei
+>>>>>>> branch3
